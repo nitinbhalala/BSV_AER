@@ -1,0 +1,6 @@
+storePassword=bsv@AER.2023
+keyPassword=bsv@AER.2023
+keyAlias=bsvaer
+storeFile=E:\\bsvaer.jks
+
+
